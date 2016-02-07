@@ -1,0 +1,6 @@
+What happends when you initialize a repository?
+Why do you need to do it?
+
+It creates a git file and you need to initialize
+in order to configurate the directory as a git
+directory
