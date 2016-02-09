@@ -27,4 +27,12 @@ When you need to build two working versions of the files
 How do the diagrams help you visualize the branch structure
 
 The can graphicly repesent all branches where made that
-can't be reached from ceartin tip in the log 
+can't be reached from ceartin tip in the log
+
+What is the result of merging two branches together?
+Why do we represent it in the diagram the way we do?
+
+megging two branches will put togeder two separated
+branches, and you represented it in the diagram that
+way because they were build in simultaneus way
+ 
