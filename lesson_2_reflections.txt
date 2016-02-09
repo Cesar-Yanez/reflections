@@ -4,3 +4,27 @@ Why do you need to do it?
 It creates a git file and you need to initialize
 in order to configurate the directory as a git
 directory
+
+How is the stagin area different from the working
+directory and the repository?
+What value do you think it offers?
+
+In the stagin area you can add only the files you
+select wheteher it where modified or are part
+of changes that where made.
+
+How can you use the staging area to make sure you
+have one commit per logical change?
+
+You need to add every file changed in one single stage
+
+What are some situations when branches would be helpful
+in keeping your history organized?
+How would branches help?
+
+When you need to build two working versions of the files
+
+How do the diagrams help you visualize the branch structure
+
+The can graphicly repesent all branches where made that
+can't be reached from ceartin tip in the log 
