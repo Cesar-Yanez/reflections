@@ -35,4 +35,10 @@ Why do we represent it in the diagram the way we do?
 megging two branches will put togeder two separated
 branches, and you represented it in the diagram that
 way because they were build in simultaneus way
+
+What are the pros and cons of Git's automatic merging vs
+always doing merges manually?
+
+With automatic merging you don't have control over the 
+code that actually megrgin 
  
