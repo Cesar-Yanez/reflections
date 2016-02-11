@@ -10,3 +10,14 @@ remote repository?
 
 Cause pulling manually I have the control over the 
 changes I will update
+
+Describe the differences between forks, clones, and branches.
+When would you use one instead of another?
+
+With branches you divide the history of the comits within one
+repositiry
+
+Clones you dupllicate one repositoy from a remote location or
+from the same computer
+
+With forks you create a copy within github 
