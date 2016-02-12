@@ -21,3 +21,9 @@ Clones you dupllicate one repositoy from a remote location or
 from the same computer
 
 With forks you create a copy within github 
+
+What is the benefit of having a copy of the last known state
+of the remote stored locally?
+
+Avoiding conflicts between the code you are working locally
+and the code thats in the remote repository
