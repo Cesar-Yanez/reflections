@@ -27,3 +27,12 @@ of the remote stored locally?
 
 Avoiding conflicts between the code you are working locally
 and the code thats in the remote repository
+
+How would you collaborate without using Git or GitHub?
+What would be easier, and what would be harder?
+
+Without Git or GitHub creating a repository would be 
+sligthly easier but tranking changes would be harder
+Collaborating without Git or GitHub would be a pain because
+it would be imposible to track changes from different 
+collaborators 
